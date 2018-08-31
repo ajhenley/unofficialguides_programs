@@ -1,0 +1,1 @@
+static.message=Hello World!

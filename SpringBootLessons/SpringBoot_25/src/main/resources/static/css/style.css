@@ -1,0 +1,35 @@
+
+h2, h3, h4, h5, h6{
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.space2{
+    height: 20px;
+}
+
+.space5{
+    height: 50px;
+}
+
+.space10{
+    height: 100px;
+}
+
+.space25{
+    height: 250px;
+}
+
+nav {
+    /*background-color: #007487 !important;*/
+    background: rgb(12, 19, 23) !important;
+}
+
+.footer-nav{
+    /*background-color: #474747 !important;*/
+    /*background: rgb(12, 32, 40) !important;*/
+    background: rgb(12, 19, 23) !important;
+}
